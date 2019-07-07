@@ -1,7 +1,7 @@
 Cerberus
 ==================
 
-
+[![Build Status](https://travis-ci.org/richardnixonafj/cerberus.svg?branch=master)](https://travis-ci.org/richardnixonafj/cerberus)
 [![codecov](https://codecov.io/gh/richardnixonafj/cerberus/branch/master/graph/badge.svg)](https://codecov.io/gh/richardnixonafj/cerberus)
 
 
