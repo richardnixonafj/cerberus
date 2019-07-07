@@ -1,6 +1,10 @@
 Cerberus
 ==================
 
+
+[![codecov](https://codecov.io/gh/richardnixonafj/cerberus/branch/master/graph/badge.svg)](https://codecov.io/gh/richardnixonafj/cerberus)
+
+
 Meu primeiro projeto de um crawler em python
 ---------------------------------------------
 
