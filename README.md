@@ -17,7 +17,7 @@ Neste tutorial, você construiu um spider totalmente funcional que extrai dados 
 
 Desafios
 ---------
-- [ ] No momento, estamos analisando apenas os resultados de 2016, como você deve ter percebido da parte 2016 de http://brickset.com/sets/year-2016 - Como você faria o crawling dos resultados de outros anos?
+- [X] No momento, estamos analisando apenas os resultados de 2016, como você deve ter percebido da parte 2016 de http://brickset.com/sets/year-2016 - Como você faria o crawling dos resultados de outros anos?
 
 - [ ] Há um preço de varejo incluído na maioria dos conjuntos. Como você extrai os dados dessa célula? Como você obteria um número bruto disso? Dica: você encontrará os dados em um dt assim como o número de peças e minifigs.
 
