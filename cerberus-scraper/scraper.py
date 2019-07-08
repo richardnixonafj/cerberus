@@ -3,7 +3,12 @@ import scrapy
 
 class BrickSetSpider(scrapy.Spider):
     name = 'brick_spider'
-    start_urls = ['http://brickset.com/sets/year-2016']
+    start_urls = ['http://brickset.com/sets/year-2016',
+                  'http://brickset.com/sets/year-2017',
+                  'http://brickset.com/sets/year-2018',
+                  'http://brickset.com/sets/year-2019',
+                  'http://brickset.com/sets/year-2020',
+                  ]
 
     def parse(self, response):
         SET_SELECTOR = '.set'
