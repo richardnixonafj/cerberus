@@ -3,7 +3,8 @@ Cerberus
 
 [![Build Status](https://travis-ci.org/richardnixonafj/cerberus.svg?branch=master)](https://travis-ci.org/richardnixonafj/cerberus)
 [![codecov](https://codecov.io/gh/richardnixonafj/cerberus/branch/master/graph/badge.svg)](https://codecov.io/gh/richardnixonafj/cerberus)
-
+[![Updates](https://pyup.io/repos/github//richardnixonafj/cerberus/shield.svg)](https://pyup.io/repos/github/richardnixonafj/cerberus)
+[![Python 3](https://pyup.io/repos/github/richardnixonafj/cerberus/python-3-shield.svg)](https://pyup.io/repos/github/richardnixonafj/cerberus/)
 
 Meu primeiro projeto de um crawler em python
 ---------------------------------------------
